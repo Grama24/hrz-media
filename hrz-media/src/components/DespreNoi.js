@@ -6,6 +6,7 @@ import Titlu from './Titlu'
 import Rezultate from './Rezultate'
 import Dece from './Dece'
 import Colaborari from './Colaborari&Rezultate'
+import Statistici from './Statistici'
 const DespreNoi = () => {
   return (
     <div className='pt-32 despreNoi'>
@@ -19,7 +20,7 @@ const DespreNoi = () => {
        <Rezultate />
       <Dece/>
       <Colaborari/>
-
+      
     </div>
   )
 }

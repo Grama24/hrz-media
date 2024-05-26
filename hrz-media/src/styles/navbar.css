@@ -126,7 +126,7 @@ body {
     left: 0;
     width: 100%;
     height: 0;
-    background: rgba(0, 0, 0, 0.422);
+    background: rgb(0, 0, 0);
     backdrop-filter: blur(50px);
     box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
     overflow: hidden;
